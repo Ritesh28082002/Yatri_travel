@@ -1,0 +1,15 @@
+{
+  "name": "yatri_travel",
+  "version": "1.0.0",
+  "description": "Static website for Yatri Travel Agency",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "keywords": [],
+  "author": "Ritesh Kumar Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  }
+}
